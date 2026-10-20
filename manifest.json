@@ -1,0 +1,9 @@
+{
+  "name": "CutSync Studio \u2014 Video Analyzer & Template Remixer",
+  "short_name": "CutSync",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#090b10",
+  "theme_color": "#090b10",
+  "orientation": "portrait-primary"
+}
